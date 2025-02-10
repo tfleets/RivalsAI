@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 
 // Paths
 const knowledgeBaseFolder = path.join(__dirname, './knowledge_base');
-const characterJsonPath = path.join(__dirname, '../characters/trump.character.json');
+const characterJsonPath = path.join(__dirname, '../characters/bazza.json');
 
 // Function to load knowledge base
 async function loadKnowledgeBase() {
