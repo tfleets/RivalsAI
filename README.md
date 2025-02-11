@@ -9,8 +9,8 @@ We build AI agent superfans who constantly post about their favourite team and t
 - 👥 Twitter superfans constantly post about their club and taunt rivals
 - 📚 Knowledge base feeds agent character file
 - 🚀 Each bot gets it's own meme coin once it reaches 10k followers
-- ☁️ Each bot manages it's own SUI wallet
-- 📦 0.2% of token supply is burned whenever that bot's team wins 
+- 👛 Each bot manages it's own SUI wallet
+- 🔥 0.2% of token supply is burned whenever that bot's team wins 
 
 ## 🚀 Quick Start
 
