@@ -1,4 +1,4 @@
-# Rivala AI - Entertaining football fans with ridiculous robots 🤖⚽
+# Rivals AI - Entertaining football fans with ridiculous robots 🤖⚽
 
 We build AI agent superfans who constantly post about their favourite team and taunt their rivals. Each bot has a SUI wallet and will launch it's own memecoin once it hits 10k followers.
 
